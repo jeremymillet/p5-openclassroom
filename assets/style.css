@@ -69,8 +69,8 @@ body {
 }
 
 .picture img {
-	max-width: 555px;
-	max-height: 555px
+	width: 555px;
+	height: 555px;
 
 }
 #about-me {
