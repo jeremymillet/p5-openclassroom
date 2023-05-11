@@ -43,7 +43,7 @@ body {
 	height: 20px;
 }
 .img-slider {
-	max-width: 2000px;
+	width: 2000px;
 	max-height: 925px;
 }
 #about {
