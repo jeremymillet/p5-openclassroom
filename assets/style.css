@@ -44,7 +44,7 @@ body {
 }
 .img-slider {
 	width: 100%;
-	height: auto;
+	height: 925px;
 }
 #about {
 	display: flex;
