@@ -42,7 +42,9 @@ body {
 	width: 20px;
 	height: 20px;
 }
-
+.img-slider {
+	width: 100%;
+}
 #about {
 	display: flex;
 	background-color: #F6D2B8;
