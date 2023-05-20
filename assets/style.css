@@ -202,10 +202,11 @@ body {
 	justify-content: space-between;
 	z-index: 1;
 }
-.service__description h2{
+.service__description h2,h3{
 	font-size: 28px;
 }
-.service__description h3 {
+
+.service__description h4 {
 	font-size: 24px;
 }
 
